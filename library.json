@@ -1,0 +1,30 @@
+{
+  "name": "ESP-ZenState",
+  "version": "0.1.0",
+  "description": "Unified Reactive State Machine & Thermal Mitigation Framework for ESP32 (FreeRTOS based)",
+  "keywords": [
+    "state-machine",
+    "freertos",
+    "esp32",
+    "esp-idf",
+    "thermal",
+    "async"
+  ],
+  "authors": [
+    {
+      "name": "Rafly A.R",
+      "email": "ginganomercy@example.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ginganomercy/esp-zenstate.git"
+  },
+  "frameworks": [
+    "arduino",
+    "espidf"
+  ],
+  "platforms": [
+    "espressif32"
+  ]
+}
