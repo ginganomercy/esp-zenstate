@@ -73,6 +73,11 @@ void loop() {
 
 ---
 
+## 👨‍💻 Author
+**Rafly A.R**
+📧 Email: raflypriyantoro@gmail.com
+📸 Instagram: [@galaxy_scream](https://instagram.com/galaxy_scream)
+
 ## Installation (PlatformIO)
 
 Simply copy the `include` and `src` directories into your project, or add the following to your `platformio.ini`:
